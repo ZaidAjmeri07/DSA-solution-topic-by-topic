@@ -12,3 +12,5 @@
 | 4 | 1497. Check If Array Pairs Are Divisible by k | LeetCode | Hash Table | Medium | Java |
 
 | 5 | GFG. Missing And Repeating | GeeksforGeeks | HashMaps | N/A | Java |
+
+| 6 | 242. Valid Anagram | LeetCode | String | Easy | Java |
