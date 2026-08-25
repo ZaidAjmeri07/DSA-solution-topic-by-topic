@@ -14,3 +14,5 @@
 | 5 | GFG. Missing And Repeating | GeeksforGeeks | HashMaps | N/A | Java |
 
 | 6 | 242. Valid Anagram | LeetCode | String | Easy | Java |
+
+| 7 | 1706. Where Will the Ball Fall | LeetCode | Matrix | Medium | Java |
