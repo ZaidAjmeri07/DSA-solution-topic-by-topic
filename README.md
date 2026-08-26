@@ -16,3 +16,5 @@
 | 6 | 242. Valid Anagram | LeetCode | String | Easy | Java |
 
 | 7 | 1706. Where Will the Ball Fall | LeetCode | Matrix | Medium | Java |
+
+| 8 | 560. Subarray Sum Equals K | LeetCode | Hash Table | Medium | Java |
