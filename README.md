@@ -24,3 +24,5 @@
 | 10 | 209. Minimum Size Subarray Sum | LeetCode | Sliding Window | Medium | Java |
 
 | 11 | 76. Minimum Window Substring | LeetCode | Sliding Window | Hard | Java |
+
+| 12 | 1004. Max Consecutive Ones III | LeetCode | Binary Search | Medium | Java |
