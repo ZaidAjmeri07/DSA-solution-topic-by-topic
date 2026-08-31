@@ -32,3 +32,5 @@
 | 14 | 4039. Sum of Decoded Numbers | LeetCode | Arrays | Medium | Java |
 
 | 15 | 4038. Count Integers Appearing in a Single Block | LeetCode | HashMap + Sliding Window | Easy | Java |
+
+| 16 | 835. Image Overlap | LeetCode | Matrix | Medium | Java |
