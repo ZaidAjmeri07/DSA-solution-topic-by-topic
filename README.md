@@ -28,3 +28,5 @@
 | 12 | 1004. Max Consecutive Ones III | LeetCode | Sliding Window | Medium | Java |
 
 | 13 | GFG. Left Smaller Right Greater | GeeksforGeeks | Arrays | N/A | Java |
+
+| 14 | 4039. Sum of Decoded Numbers | LeetCode | Arrays | Medium | Java |
