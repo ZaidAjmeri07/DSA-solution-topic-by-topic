@@ -40,3 +40,5 @@
 | 18 | 1248. Count Number of Nice Subarrays | LeetCode | Hash Table | Medium | Java |
 
 | 19 | 1423. Maximum Points You Can Obtain from Cards | LeetCode | Sliding Window | Medium | Java |
+
+| 20 | 1358. Number of Substrings Containing All Three Characters | LeetCode | Hash Table | Medium | Java |
