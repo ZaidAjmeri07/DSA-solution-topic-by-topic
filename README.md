@@ -36,3 +36,5 @@
 | 16 | 835. Image Overlap | LeetCode | Matrix | Medium | Java |
 
 | 17 | 992. Subarrays with K Different Integers | LeetCode | Sliding Window | Hard | Java |
+
+| 18 | 1248. Count Number of Nice Subarrays | LeetCode | Hash Table | Medium | Java |
