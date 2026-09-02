@@ -38,3 +38,5 @@
 | 17 | 992. Subarrays with K Different Integers | LeetCode | Sliding Window | Hard | Java |
 
 | 18 | 1248. Count Number of Nice Subarrays | LeetCode | Hash Table | Medium | Java |
+
+| 19 | 1423. Maximum Points You Can Obtain from Cards | LeetCode | Sliding Window | Medium | Java |
