@@ -34,3 +34,5 @@
 | 15 | 4038. Count Integers Appearing in a Single Block | LeetCode | HashMap + Sliding Window | Easy | Java |
 
 | 16 | 835. Image Overlap | LeetCode | Matrix | Medium | Java |
+
+| 17 | 992. Subarrays with K Different Integers | LeetCode | Sliding Window | Hard | Java |
