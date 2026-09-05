@@ -44,3 +44,5 @@
 | 20 | 1358. Number of Substrings Containing All Three Characters | LeetCode | Hash Table | Medium | Java |
 
 | 21 | 1137. N-th Tribonacci Number | LeetCode | Dynamic Programming | Easy | Java |
+
+| 22 | 2643. Row With Maximum Ones | LeetCode | Matrix | Easy | Java |
