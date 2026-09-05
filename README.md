@@ -42,3 +42,5 @@
 | 19 | 1423. Maximum Points You Can Obtain from Cards | LeetCode | Sliding Window | Medium | Java |
 
 | 20 | 1358. Number of Substrings Containing All Three Characters | LeetCode | Hash Table | Medium | Java |
+
+| 21 | 1137. N-th Tribonacci Number | LeetCode | Dynamic Programming | Easy | Java |
