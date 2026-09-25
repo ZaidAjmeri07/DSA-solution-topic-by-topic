@@ -52,3 +52,5 @@
 | 24 | 1380. Lucky Numbers in a Matrix | LeetCode | Matrix | Easy | Java |
 
 | 25 | 102. Binary Tree Level Order Traversal | LeetCode | Tree | Medium | Java |
+
+| 26 | 103. Binary Tree Zigzag Level Order Traversal | LeetCode | Tree | Medium | Java |
