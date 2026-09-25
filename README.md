@@ -50,3 +50,5 @@
 | 23 | 2033. Minimum Operations to Make a Uni-Value Grid | LeetCode | Math | Medium | Java |
 
 | 24 | 1380. Lucky Numbers in a Matrix | LeetCode | Matrix | Easy | Java |
+
+| 25 | 102. Binary Tree Level Order Traversal | LeetCode | Tree | Medium | Java |
