@@ -54,3 +54,5 @@
 | 25 | 102. Binary Tree Level Order Traversal | LeetCode | Tree | Medium | Java |
 
 | 26 | 103. Binary Tree Zigzag Level Order Traversal | LeetCode | Tree | Medium | Java |
+
+| 27 | GFG. Size of Binary Tree | GeeksforGeeks | Tree | N/A | Java |
