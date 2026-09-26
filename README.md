@@ -66,3 +66,5 @@
 | 31 | GFG. Minimum Depth of a Binary Tree | GeeksforGeeks | Tree | N/A | Java |
 
 | 32 | 110. Balanced Binary Tree | LeetCode | Tree | Easy | Java |
+
+| 33 | 112. Path Sum | LeetCode | Tree | Easy | Java |
