@@ -64,3 +64,5 @@
 | 30 | GFG. Maximum Depth Of Binary Tree | GeeksforGeeks | Tree | N/A | Java |
 
 | 31 | GFG. Minimum Depth of a Binary Tree | GeeksforGeeks | Tree | N/A | Java |
+
+| 32 | 110. Balanced Binary Tree | LeetCode | Tree | Easy | Java |
