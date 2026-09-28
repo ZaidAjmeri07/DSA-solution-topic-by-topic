@@ -68,3 +68,5 @@
 | 32 | 110. Balanced Binary Tree | LeetCode | Tree | Easy | Java |
 
 | 33 | 112. Path Sum | LeetCode | Tree | Easy | Java |
+
+| 34 | GFG. Right View of Binary Tree | GeeksforGeeks | Tree | N/A | Java |
