@@ -72,3 +72,5 @@
 | 34 | GFG. Right View of Binary Tree | GeeksforGeeks | Tree | N/A | Java |
 
 | 35 | 199. Binary Tree Right Side View | LeetCode | Tree | Medium | Java |
+
+| 36 | 987. Vertical Order Traversal of a Binary Tree | LeetCode | Tree | Hard | Java |
