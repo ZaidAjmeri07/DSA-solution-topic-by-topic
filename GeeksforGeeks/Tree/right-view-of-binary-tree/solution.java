@@ -32,8 +32,8 @@ class Solution {
         // code here
         ArrayList<Integer> ans = new ArrayList<>();
 
-               dfs(root,0,ans);
+        dfs(root,0,ans);
                
-               return ans;
+         return ans;
     }
 }
