@@ -70,3 +70,5 @@
 | 33 | 112. Path Sum | LeetCode | Tree | Easy | Java |
 
 | 34 | GFG. Right View of Binary Tree | GeeksforGeeks | Tree | N/A | Java |
+
+| 35 | 199. Binary Tree Right Side View | LeetCode | Tree | Medium | Java |
